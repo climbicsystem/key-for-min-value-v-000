@@ -14,7 +14,7 @@ def key_for_min_value(name_hash)
   lowest_key
 end
 
-def key_for_min_value_v1(name_hash)
+def key_for_min_value_prototype(name_hash)
   hash_array = Array.new
   hash_key = ""
   index = 0
